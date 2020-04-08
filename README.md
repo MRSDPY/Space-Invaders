@@ -1,9 +1,7 @@
-```Space-Invaders
-```
+# Space-Invaders
 
-The classic snake game. Made with pygame.
+The classic **Space-Invaders**. Made with pygame.
 
-```Requirements
-```
+# Requirements
 
 pygame
